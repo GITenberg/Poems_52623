@@ -1,0 +1,24 @@
+_repo: Poems_52623
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McElroy, Crocket
+    gutenberg_agent_id: '46960'
+    url: http://www.gutenberg.org/2009/agents/46960
+description: ''
+gutenberg_issued: '2016-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52623'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry'
+- GITenberg
+tableOfContents: Poems of patriotism -- Poems of sentiment -- Poems of feeling --
+  Poems of description -- Miscellaneous poems.
+title: Poems
+url: http://www.gutenberg.org/ebooks/52623
